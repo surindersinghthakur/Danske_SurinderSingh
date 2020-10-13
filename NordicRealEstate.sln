@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordicRealEstate.Api", "NordicRealEstate\NordicRealEstate.Api.csproj", "{62A457C0-6322-494E-9BC8-FF2A07559AB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{1F5069EF-514E-4702-B736-1E8371D2AC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A457C0-6322-494E-9BC8-FF2A07559AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A457C0-6322-494E-9BC8-FF2A07559AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A457C0-6322-494E-9BC8-FF2A07559AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A457C0-6322-494E-9BC8-FF2A07559AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5069EF-514E-4702-B736-1E8371D2AC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5069EF-514E-4702-B736-1E8371D2AC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5069EF-514E-4702-B736-1E8371D2AC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5069EF-514E-4702-B736-1E8371D2AC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D9B28A7-46C5-47BB-894E-256BD0BF9286}
+	EndGlobalSection
+EndGlobal
